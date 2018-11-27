@@ -1,4 +1,14 @@
 h1{
     font-family: 'Anton', sans-serif;
-
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 500%;
+}
+.date{
+    font-family: font-family:'Rajdhani', sans-serif;
+    text-align: center;
+    width: 280px;
+    margin-top: 10px;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
 }
